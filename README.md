@@ -16,6 +16,7 @@
 
 | Site | Tags | Notes
 | :- | :- | -
+| [Arceus X](https://spdmteam.com/docs) | Official
 | [Arceus X](https://app.archbee.com/public/GTONzNA7evjrQC6ZE_BLZ/2lbM6e2QyZJCefiVR2qKy) | Unofficial
 | [Asshurt](https://luau.github.io/Executor-API-Docs/Asshurt) | Official, Archived
 | [Athena](https://web.archive.org/web/20180406063027/tacticalbfg.com:80/Athena/docs) | Official, Archived
@@ -58,7 +59,8 @@
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Sentinel V2](https://web.archive.org/web/20230711121750/gist.github.com/greenmancode/b0502e93c08190250d2278a545253d9c) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [SirHurt V4](https://www.sirhurt.net/login/API.html) | Official
-| [Solara](https://github.com/quivings/Solara/blob/main/Storage/docs.txt) | Official
+| [Solara](https://getsolara.dev/docs/) | Official
+| [[OLD] Solara](https://github.com/quivings/Solara/blob/main/Storage/docs.txt) | Official, Outdated
 | [Synapse X](https://web.archive.org/docs.synapse.to) | Official, Archived
 | [[OLD] Synapse X](https://luau.github.io/Executor-API-Docs) | Official, Outdated
 | [[OLD] Synapse X](https://github.com/luau/Executor-API-Docs/wiki) | Official, Outdated
