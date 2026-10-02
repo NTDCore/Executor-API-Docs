@@ -16,6 +16,7 @@
 
 | Site | Tags | Notes
 | :- | :- | -
+| [Arceus X](https://spdmteam.com/docs) | Official
 | [Arceus X](https://app.archbee.com/public/GTONzNA7evjrQC6ZE_BLZ/2lbM6e2QyZJCefiVR2qKy) | Unofficial
 | [Asshurt](https://luau.github.io/Executor-API-Docs/Asshurt) | Official, Archived
 | [Athena](https://web.archive.org/web/20180406063027/tacticalbfg.com:80/Athena/docs) | Official, Archived
