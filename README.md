@@ -72,7 +72,8 @@
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
-| [Volcano](https://docs.volcano.wtf/api/environment) | Official
+| [Volcano](https://docs.vvapi.co) | Official
+| [[OLD] Volcano](https://web.archive.org/web/20260305195935/https://docs.volcano.wtf) | Official, Outdated
 | [Volt](https://docs.voltbz.net) | Official
 | [[OLD] Volt](https://docs.volt.bz) | Official, Outdated
 | [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
