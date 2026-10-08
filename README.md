@@ -53,6 +53,7 @@
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
 | [Raindrop](https://luau.github.io/Executor-API-Docs/Raindrop) | Official, Archived |  Author: 3dsboy08 ([Github](https://github.com/3dsboy08), [Discord](https://discordapp.com/users/529155884643909643)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/3dsboy08/3dsboy08.github.io)
 | [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz) | Official, Archived |  Author: MisterGunXD ([Github](https://github.com/MisterGunXD), [Discord](https://discordapp.com/users/318824212020330496))
+| [Real](https://docs.projectreal.gg) | Official
 | [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg) | Official, Archived
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
@@ -72,6 +73,7 @@
 | [Unit](https://web.archive.org/github.com/unit-fun/Unit-Documentation) | Official, Archived
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
+| [Velocity](https://getvelocity.llc/docs) | Official
 | [Volcano](https://docs.vvapi.co) | Official
 | [[OLD] Volcano](https://web.archive.org/web/20260305195935/https://docs.volcano.wtf) | Official, Outdated
 | [Volt](https://docs.voltbz.net) | Official
